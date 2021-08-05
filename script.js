@@ -4,7 +4,7 @@ function loadScript() {
 function changeLocation24() {
 	location.href = "/files/music/pancake robot.mp4";
 }
-function smth() {
+function oops() {
 	location.href = "/files/music/undone.mp3";
 }
 
